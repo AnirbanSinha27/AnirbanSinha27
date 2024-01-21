@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 ### Few things about me
-- 🔭 I’m currently working on [some-repository](https://github.com/AnirbanSinha27/some-repository) (some description).
+- 🔭 I’m currently working on [some-repository]([https://github.com/AnirbanSinha27/some-repository](https://github.com/AnirbanSinha27?tab=repositories)) .
 
 - 🌱 I’m currently learning:
-  - <img src="https://img.shields.io/badge/Programming Language-6094cb?style=flat&logo=C&logoColor=ffffff"></img> for University credits 😅.
-  - <img src="https://img.shields.io/badge/++ Programming Language-02417e?style=flat&logo=C&logoColor=ffffff"></img> for GUI and CLI Application development 💻.
+  - <img src="https://img.shields.io/badge/Programming Language-6094cb?style=flat&logo=C&logoColor=ffffff"></img> and <img src="https://img.shields.io/badge/Java-red"></img> for University credits 😅.
+  - <img src="https://img.shields.io/badge/++ Programming Language-02417e?style=flat&logo=C&logoColor=ffffff"></img> for GUI and CLI Application development and DSA 💻.
+  - <img src="https://img.shields.io/badge/Java-Script-yellow"></img>,<img src="https://img.shields.io/badge/CSS-blue"></img> and <img src="https://img.shields.io/badge/HTML-orange"></img> for Web Development 👻
 
 
 ## Statistics
