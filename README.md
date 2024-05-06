@@ -4,15 +4,9 @@
 - 🔭 I’m currently working on [some-repository]([https://github.com/AnirbanSinha27/some-repository](https://github.com/AnirbanSinha27?tab=repositories)) .
 
 - 🌱 I’m currently learning:
-  - <img src="https://img.shields.io/badge/C-6094cb?style=flat&logo=C&logoColor=ffffff
-"></img> , <img src="https://img.shields.io/badge/Java-6094cb?style=flat&logo=java&logoColor=ffffff
-"></img> and for <img src="https://img.shields.io/badge/Python-6094cb?style=flat&logo=python&logoColor=ffffff
-"></img> University credits 😅.
-  - <img src="https://img.shields.io/badge/C++-6094cb?style=flat&logo=C%2B%2B&logoColor=ffffff
-"></img> for Data Stuctures and Algorithms 💻.
-  - <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white
-"></img> , <img src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white
-"></img> , <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white"></img> and <img src="https://img.shields.io/badge/React-blue?logo=React&logoColor=white&color=blue"></img> for Web Development 👻
+  - <img src="https://img.shields.io/badge/C-6094cb?style=flat&logo=C&logoColor=ffffff"></img> , <img src="https://img.shields.io/badge/Java-6094cb?style=flat&logo=java&logoColor=ffffff"></img> and for <img src="https://img.shields.io/badge/Python-6094cb?style=flat&logo=python&logoColor=ffffff"></img> University credits 😅.
+  - <img src="https://img.shields.io/badge/C++-6094cb?style=flat&logo=C%2B%2B&logoColor=ffffff"></img> for Data Stuctures and Algorithms 💻.
+  - <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white"></img> , <img src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white"></img> , <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white"></img> and <img src="https://img.shields.io/badge/React-blue?logo=React&logoColor=white&color=blue"></img> for Web Development 👻
 
 
 ## Statistics
