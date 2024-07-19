@@ -1,6 +1,10 @@
-<div style="background-color: pink; padding: 20px; text-align: center;">
-  <h1>Hi there 👋</h1>
-</div>
+<table>
+  <tr>
+    <td style="background-color: pink; padding: 20px; text-align: center;">
+      <h1>Hi there 👋</h1>
+    </td>
+  </tr>
+</table>
 
 ### Few things about me
 - 🔭 I’m currently working on [some-repository](https://github.com/AnirbanSinha27/some-repository).
