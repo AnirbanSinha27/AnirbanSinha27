@@ -1,4 +1,6 @@
-### Hi there 👋
+<div style="background-color: pink; padding: 20px; text-align: center;">
+  <h1>Hi there 👋</h1>
+</div>
 
 ### Few things about me
 - 🔭 I’m currently working on [some-repository]([https://github.com/AnirbanSinha27/some-repository](https://github.com/AnirbanSinha27?tab=repositories)) .
